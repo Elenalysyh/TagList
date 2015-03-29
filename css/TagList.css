@@ -1,0 +1,18 @@
+
+.closeTag{
+	 border-left: 1px solid #FFF;
+	 cursor: pointer;
+	 margin-left: 3px;
+	 padding-left: 3px;
+	
+}
+.label {
+	display: inline;
+}
+.wrapper{
+	margin: 20px;
+	padding: 20px;
+}
+.Tag, .wrapperTag {
+	margin-right: 2px;
+}
